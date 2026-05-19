@@ -16,6 +16,19 @@ public class MainMenuController : MonoBehaviour
 
     }
 
+    public void setDifficultyEasy(){
+        GameSettings.SetDifficulty(GameSettings.GameDifficulty.Easy);
+    }
+    public void setDifficultyNormal(){
+        GameSettings.SetDifficulty(GameSettings.GameDifficulty.Normal);
+    }
+    public void setDifficultyHard(){
+        GameSettings.SetDifficulty(GameSettings.GameDifficulty.Hard);
+    }
+    public void setDifficultyExtreme(){
+        GameSettings.SetDifficulty(GameSettings.GameDifficulty.Extreme);
+    }
+
     public void showSingleplayerDifficultyPanel(){
         choosingPlayModePanel.SetActive(true);
 
