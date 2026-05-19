@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a76cebb8fa44f0f44b6f0e3a3d231791
+guid: 4157e2268960cd940ba4b66fee03853a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3946027707357380933
-    second: GomokuBoard15x15_0
+      213: -7853921479793215973
+    second: Red Stone Sprite_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,10 +46,10 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 6
+  alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GomokuBoard15x15_0
+      name: Red Stone Sprite_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1500
-        height: 1500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 541c2eafa4b13c630800000000000000
-      internalID: 3946027707357380933
+      spriteID: b167d17a604410390800000000000000
+      internalID: -7853921479793215973
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GomokuBoard15x15_0: 3946027707357380933
+      Red Stone Sprite_0: -7853921479793215973
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
